@@ -10,6 +10,7 @@ Console.WriteLine("Hello, World!");
 Console.WriteLine("What shall we do?");
 byte math = 1 + 1;
 Console.WriteLine($"1 + 1 = " + math);
+Console.WriteLine("Pi is " + Math.PI);
 Console.WriteLine("Goodbye, World!");
 Console.WriteLine("Press any key to exit...");
 Console.ReadKey();
