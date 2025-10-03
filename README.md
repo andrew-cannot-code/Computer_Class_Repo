@@ -51,6 +51,28 @@ This repository will serve as a central location for storing and managing comput
 - Save your work frequently
 - Push your changes regularly so others can see them
 
+## .NET Project
+
+This repository contains a .NET 9 Console Application. To work with the project:
+
+### Prerequisites
+- Install [.NET 9 SDK](https://dotnet.microsoft.com/download)
+
+### Running the Project
+1. Navigate to the project directory:
+   ```bash
+   cd ComputerClassApp
+   ```
+2. Run the application:
+   ```bash
+   dotnet run
+   ```
+
+### Building the Project
+```bash
+dotnet build
+```
+
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.

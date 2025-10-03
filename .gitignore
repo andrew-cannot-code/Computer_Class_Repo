@@ -1,15 +1,25 @@
-# Node.js
-node_modules/
-npm-debug.log
-yarn-debug.log
-yarn-error.log
+# .NET
+bin/
+obj/
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.dll
+*.exe
+*.pdb
+*.cache
+project.lock.json
+project.fragment.lock.json
+artifacts/
 
-# Python
-__pycache__/
-*.py[cod]
-*$py.class
-venv/
-.env
+# Visual Studio files
+.vs/
+*.ncrunch*
+*.dbmdl
+*.jfm
+*.pfx
+*.publishsettings
 
 # IDEs and editors
 .idea/
